@@ -1,0 +1,11 @@
+#ifndef LOCALISATION_ALGO
+#define LOCALISATION_ALGO
+//insert here the code
+
+#define CPU_FREQUENCY  400u//in MHz
+#define CPU_CYCLE_TIME 1u//(in ns)
+#define LOCALISATION_ADAPTATION_TIME 2u//in ns
+#define LOCALISATION_CALCULATED_TOLLERANCY 2u//in ns
+
+
+#endif //LOCALISATION_ALGO
